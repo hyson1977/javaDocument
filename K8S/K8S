@@ -7,3 +7,39 @@ https://mp.weixin.qq.com/s/jbPFPftlL5lWqc_uVy7UXw
 k8s常见组件详解
 https://mp.weixin.qq.com/s/WA_T1xsCYvlDOmEXZIalGg
 
+Kubernetes 入门到进阶（二）
+https://developer.aliyun.com/article/1138080?spm=a2c6h.12873639.article-detail.37.6e9f76032ApExZ&scm=20140722.ID_community@@article@@1138080._.ID_community@@article@@1138080-OR_rec-V_1-RL_community@@article@@1138077
+
+【云原生|实战入门】1：Docker、K8s简单实战与核心概念理解
+https://developer.aliyun.com/article/1136314?spm=a2c6h.12873639.article-detail.53.20d71c31s3vb9u
+https://developer.aliyun.com/article/1136315?spm=a2c6h.12873639.article-detail.50.20d71c31s3vb9u
+
+
+彻底会用Dockerfile中的ENV和ARG了
+https://mp.weixin.qq.com/s/MduiKqRxvZzSEiUiOLEWDQ
+
+k8s service和pod是怎么关联起来的
+https://mp.weixin.qq.com/s/QiUmk2z7E_61e0OnBvMpvQ
+
+k8s的pod配置项详细介绍
+https://mp.weixin.qq.com/s/8Gsy380GeHdVuqFtCDqMfg
+
+分享：一文搞清楚应用发布到k8s集群的基本流程
+https://mp.weixin.qq.com/s/jBJTLYvXkCtd__yO4Ap9UA
+
+k8s pod 超详细总结
+https://mp.weixin.qq.com/s/xXNLUgVnNplTsI7sxD5cUQ
+
+Pod状态和探针总结
+https://mp.weixin.qq.com/s/UAxqRdBh5sPHBlcTLSDQaw
+
+k8s业务迁移与服务部署实践
+https://mp.weixin.qq.com/s/W-jQro7pqSqpfe1gvdNQMA
+
+
+应用上K8S第一步：Dockerfile参数化构建技巧
+https://mp.weixin.qq.com/s/CbMYtypANA3Z55v3N8sXqg
+
+Isito 入门：为什么学 Istio
+https://mp.weixin.qq.com/s/1b49itpIqJCXDXmO3ruPPA
+
