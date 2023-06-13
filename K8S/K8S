@@ -14,6 +14,8 @@ https://developer.aliyun.com/article/1138080?spm=a2c6h.12873639.article-detail.3
 https://developer.aliyun.com/article/1136314?spm=a2c6h.12873639.article-detail.53.20d71c31s3vb9u
 https://developer.aliyun.com/article/1136315?spm=a2c6h.12873639.article-detail.50.20d71c31s3vb9u
 
+不要用JWT替代session管理（上）：全面了解Token,JWT,OAuth,SAML,SSO
+https://zhuanlan.zhihu.com/p/38942172
 
 彻底会用Dockerfile中的ENV和ARG了
 https://mp.weixin.qq.com/s/MduiKqRxvZzSEiUiOLEWDQ
@@ -42,4 +44,23 @@ https://mp.weixin.qq.com/s/CbMYtypANA3Z55v3N8sXqg
 
 Isito 入门：为什么学 Istio
 https://mp.weixin.qq.com/s/1b49itpIqJCXDXmO3ruPPA
+
+
+K8s Pod 是如何获取 IP 地址的？
+https://mp.weixin.qq.com/s/W7J2fWeoxr14yUrQmsHVuQ
+
+K8s Pod 排错实战：如何快速定位与修复问题
+https://mp.weixin.qq.com/s/3xo7ZdRQWpOCK3itXgHndg
+
+Jenkins Pipeline一篇全搞定
+https://mp.weixin.qq.com/s/l6KFDYrXNkhpOMWTVFeLqA
+
+Jenkins实现自动化构建与部署（超详细）
+https://mp.weixin.qq.com/s/M4-WNDiTZfkDntmMF2cYEA
+
+Jenkins的流水线详解
+https://mp.weixin.qq.com/s/aF764BNMwGg8Ns665c4n1w
+
+
+
 
