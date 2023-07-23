@@ -1,0 +1,241 @@
+Spring Boot + K8S 中的滚动发布、优雅停机、弹性伸缩、应用监控、配置分离
+https://mp.weixin.qq.com/s/h33xazTMayjnvcgfjigPhQ
+
+k8s pod init containers（初始化容器）
+https://mp.weixin.qq.com/s/jbPFPftlL5lWqc_uVy7UXw
+
+k8s常见组件详解
+https://mp.weixin.qq.com/s/WA_T1xsCYvlDOmEXZIalGg
+
+Kubernetes 入门到进阶（二）
+https://developer.aliyun.com/article/1138080?spm=a2c6h.12873639.article-detail.37.6e9f76032ApExZ&scm=20140722.ID_community@@article@@1138080._.ID_community@@article@@1138080-OR_rec-V_1-RL_community@@article@@1138077
+
+【云原生|实战入门】1：Docker、K8s简单实战与核心概念理解
+https://developer.aliyun.com/article/1136314?spm=a2c6h.12873639.article-detail.53.20d71c31s3vb9u
+https://developer.aliyun.com/article/1136315?spm=a2c6h.12873639.article-detail.50.20d71c31s3vb9u
+
+不要用JWT替代session管理（上）：全面了解Token,JWT,OAuth,SAML,SSO
+https://zhuanlan.zhihu.com/p/38942172
+
+彻底会用Dockerfile中的ENV和ARG了
+https://mp.weixin.qq.com/s/MduiKqRxvZzSEiUiOLEWDQ
+
+k8s service和pod是怎么关联起来的
+https://mp.weixin.qq.com/s/QiUmk2z7E_61e0OnBvMpvQ
+
+k8s的pod配置项详细介绍
+https://mp.weixin.qq.com/s/8Gsy380GeHdVuqFtCDqMfg
+
+分享：一文搞清楚应用发布到k8s集群的基本流程
+https://mp.weixin.qq.com/s/jBJTLYvXkCtd__yO4Ap9UA
+
+k8s pod 超详细总结
+https://mp.weixin.qq.com/s/xXNLUgVnNplTsI7sxD5cUQ
+
+Pod状态和探针总结
+https://mp.weixin.qq.com/s/UAxqRdBh5sPHBlcTLSDQaw
+
+k8s业务迁移与服务部署实践
+https://mp.weixin.qq.com/s/W-jQro7pqSqpfe1gvdNQMA
+
+
+应用上K8S第一步：Dockerfile参数化构建技巧
+https://mp.weixin.qq.com/s/CbMYtypANA3Z55v3N8sXqg
+
+Isito 入门：为什么学 Istio
+https://mp.weixin.qq.com/s/1b49itpIqJCXDXmO3ruPPA
+
+
+K8s Pod 是如何获取 IP 地址的？
+https://mp.weixin.qq.com/s/W7J2fWeoxr14yUrQmsHVuQ
+
+K8s Pod 排错实战：如何快速定位与修复问题
+https://mp.weixin.qq.com/s/3xo7ZdRQWpOCK3itXgHndg
+
+Jenkins Pipeline一篇全搞定
+https://mp.weixin.qq.com/s/l6KFDYrXNkhpOMWTVFeLqA
+
+Jenkins实现自动化构建与部署（超详细）
+https://mp.weixin.qq.com/s/M4-WNDiTZfkDntmMF2cYEA
+
+Jenkins的流水线详解
+https://mp.weixin.qq.com/s/aF764BNMwGg8Ns665c4n1w
+
+
+k8s中pod的生命周期
+https://mp.weixin.qq.com/s/LS_cGfb-DcwO69RLFbYfOg
+
+K8s-Pod健康检查原理与实践
+https://mp.weixin.qq.com/s/8kIDWeOfXM4qSyizfpPzBw
+
+Docker知识点：Docker容器日志管理
+https://mp.weixin.qq.com/s/T-ZIpB3SKBXOjd4z0-pnLg
+
+K8s 实践：优雅限制 K8s 集群中文件描述符与线程数量
+https://mp.weixin.qq.com/s/blCJOu5fOcwAxvst-nIOVQ
+
+一篇就让小白入门K8S，使用Minikube来搭建本地的单节点K8S集群
+https://mp.weixin.qq.com/s/JKeAPRW7c4B4IFlDWwTfzQ
+
+如何优雅的关闭容器
+https://mp.weixin.qq.com/s/-ZYHqOtkt54VRSCsRmzmmA
+
+k8s 就绪探针
+https://mp.weixin.qq.com/s/lZxUjbBZ4zjLl6x8DLiLEQ
+
+Service 基础
+https://mp.weixin.qq.com/s/7wzp7OlcmtOoq9Z_iIQmgw
+
+k8s如何访问 pod 元数据
+https://mp.weixin.qq.com/s/usx-QVx8asj2ClgEbt29cw
+
+ConfigMap 补充 和 Secret
+https://mp.weixin.qq.com/s/Xdh7wxYiVcL1EjetHgforQ
+
+k8s 持久化存储
+https://mp.weixin.qq.com/s/X_Ns-t1D-kCl9Xu7FEfJog
+
+pod 知识点 上
+https://mp.weixin.qq.com/s/JXTsdtF_e7di8mjaiSS8Qw
+
+深入理解Kubernetes Pod调试
+https://mp.weixin.qq.com/s/e-db5NGQMbFkpfA7a-sQ9Q
+
+基础设施即代码·3分钟搭建一套本地K8s集群
+https://mp.weixin.qq.com/s/OE1VAsG1dNuh7L_J7VgwbQ
+
+K8S的pod的优雅下线步骤
+https://mp.weixin.qq.com/s/g02zRYZoY6WACtc6SC6kPg
+
+k8s中的pod检测机制
+https://mp.weixin.qq.com/s/wb3KwR9ZjOD_jPDWf_UO4w
+
+万字长文细说部署微服务到阿里云 k8s 集群
+https://mp.weixin.qq.com/s/4D2NsXYHf0g13yZklRtr3A
+
+容器运行时的内部结构和最新趋势（2023）
+https://mp.weixin.qq.com/s/VmCD5n1AQFlYM4IWgQ_Vpw
+
+揭秘Kubernetes标签和选择器：发挥元数据的威力
+https://mp.weixin.qq.com/s/VTm2zhiDv0HLLKV4fcoOEQ
+
+40 张配图，硬核详解 K8s 中如何玩转微服务项目！
+https://mp.weixin.qq.com/s/Inon8ir4j98bFa5Ifw4MDg
+
+
+解决你的困惑，K8S Pod与容器到底啥区别？
+https://mp.weixin.qq.com/s/M1BAKPTYex54grPMp1lzyw
+
+容器和Kubernetes中的退出代码–完整指南
+https://mp.weixin.qq.com/s/kGbfY0ydjeOXnBI1bpZ5gA
+
+k8s——Pod的基本概念(2)
+https://mp.weixin.qq.com/s/DMVbmmrhvVSPvzdM--OFeA
+
+Kubernetes 日志最佳实践
+https://mp.weixin.qq.com/s/NbmrDKyDBCY80pPrE9LXzQ
+
+kubernetes网络模式
+https://mp.weixin.qq.com/s/i9OiYm_1PR34zLRlJ5vb4g
+
+k8s 超详细总结，面试必问
+https://mp.weixin.qq.com/s/1cLO02dm2Wu1gPvebgtV5g
+
+综合指南·构建 Kubernetes 应用程序
+https://mp.weixin.qq.com/s/n9rj2RfBzF_iuVk-kIOxpw
+
+K8S | 容器和Pod组件
+https://mp.weixin.qq.com/s/p5D7_MNeCWLb94V_3DQGSg
+
+谈谈Kubernetes的存储设计理念
+https://mp.weixin.qq.com/s/vtkA00ajEUgrNLaV_263vQ
+
+基于Istio的灰度发布改造流程
+https://mp.weixin.qq.com/s/ANse4ie23EK5Aaqtf006pw
+
+推荐一款批量查看 K8s Pod日志神器！
+https://mp.weixin.qq.com/s/5bvSuXhPngyVjynOG0Wupw
+
+K8S面试题，有57道题，呕心沥血整理并附答案，赶紧收藏！
+https://mp.weixin.qq.com/s/y87y_KIGz8vn2OgLXZvDOw
+
+15个你应该知道的Jenkins面试问题
+https://mp.weixin.qq.com/s/BIMmeZUZyRZReArSAWoOzQ
+
+K8S | 核心原理分析
+https://mp.weixin.qq.com/s/9zfhH4eKVIE3SzCNLz7FsQ
+
+ConfigMap：动态更新应用程序配置
+https://mp.weixin.qq.com/s/aj_znuee-FAXvD1_c4eUAg
+
+Kubernetes Pod间网络隔离
+https://mp.weixin.qq.com/s/F0vHBsRf4D9nLm_8oyVM4A
+
+生产环境 Kubernetes 中出现了很多 Evicted Pod，该怎么办呢？
+https://mp.weixin.qq.com/s/Bsz7iDOxWOgaqgqA5Rmfcw
+
+一文读懂k8s的访问控制体系（RBAC）
+https://mp.weixin.qq.com/s/0byijqUErPiXeGhpQqLIcQ
+
+k8s二次开发-01-kubebuilder
+https://mp.weixin.qq.com/s/2-RnV4SAzzv46tPt_DJm-w
+
+k8s 容器热替换/重启主进程 - gdb execve syscall 法
+https://mp.weixin.qq.com/s/IgIYErAuGAtXhJ1OOWvtqA
+
+手写K8S的YAML很痛苦，看完这篇让你信手拈来
+https://mp.weixin.qq.com/s/LSzRs4dc8YSl5uQstzta2w
+
+15 个 Kubernetes 最佳实践
+https://mp.weixin.qq.com/s/IHvaGaxkdEONMhdAJeYCjg
+
+K8S 集群关闭与重启 的正确姿势
+https://mp.weixin.qq.com/s/8TgCTgBTgYKjNMXwWUbEHw
+
+Kubernetes 超详细总结
+https://mp.weixin.qq.com/s/x7ZV2FzESKOrEXdAq_OB5g
+
+Kubernetes 生产环境最佳实践
+https://mp.weixin.qq.com/s/L4hpuR3miGi6KdJJALUE4g
+
+Kubernetes 系列（八十一）理解 Kubernetes CrashLoopBackOff：原因和解决方案
+https://mp.weixin.qq.com/s/KGhKrToCVPkVKl0Q8mmygg
+
+K8S Container解析
+https://mp.weixin.qq.com/s/_-8sgG4PwZ7Lm0I7XBSEJg
+
+一文彻底搞懂 Container
+https://mp.weixin.qq.com/s/tfxRkqf4hDw4VcGMr57jgA
+
+K8S Pod解析
+https://mp.weixin.qq.com/s/TlMut6ObjRj3-aTFQ5sdBA
+
+Kubernetes Service解析
+https://mp.weixin.qq.com/s/SWefVoJ5EKYwILW0-Kivsg
+
+Docker构建优化解析
+https://mp.weixin.qq.com/s/v6C_ZI6ms1RnwYgEGt32Ww
+
+Docker-compose解析
+https://mp.weixin.qq.com/s/zRAdEwWxl5XNOm73pEZiCg
+
+一文带你入门 Kubernetes 世界
+https://mp.weixin.qq.com/s/eDzlZbO-zbg8hQNx-ikQ6g
+
+Kubernetes Ingress深入解析
+https://mp.weixin.qq.com/s/a-bByNKaloY2bWEYzSSD1Q
+
+一文搞懂 Minikube 底层原理
+https://mp.weixin.qq.com/s/KVD6DxiGj3yGlQm8EnxhPw
+
+编排系统K8S之Service资源解析
+https://mp.weixin.qq.com/s/4SjZk89OPugLXd5yv_fa9w
+
+一图揭开 Kubernetes Pod 活动面纱
+https://mp.weixin.qq.com/s/AwMnpEyiisUygh8a68HQRg
+
+一文搞懂Kubernetes容器运行原理
+https://mp.weixin.qq.com/s/5gPxyl30nwVk8kuBBmk3Bg
+
+一篇就让小白入门K8S，使用Minikube来搭建本地的单节点K8S集群
+https://mp.weixin.qq.com/s/JKeAPRW7c4B4IFlDWwTfzQ
