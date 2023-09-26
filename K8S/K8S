@@ -376,3 +376,146 @@ https://mp.weixin.qq.com/s/Xz0zNGV1bGMV7pfsLizkEA
 
 10分钟了解Kubernetes网络
 https://mp.weixin.qq.com/s/N9yxcii1WcsYdzaI9pq34Q
+
+原理篇：创建一个Pod背后etcd的故事
+https://mp.weixin.qq.com/s/ruG3DsLnKwI-6kemnT0GTg
+
+一文带你深入理解Kubernetes Service
+https://mp.weixin.qq.com/s/BvAWVcaoJrIQLmGGEhovlw
+
+K8S Service 实战与原理初探
+https://mp.weixin.qq.com/s/Ds5rF1Vg_gn9EFlMSG5pcg
+
+K8S | Service服务发现
+https://mp.weixin.qq.com/s/dTQjcr6-RdASW1Fg0kyJsA
+
+如何使用Kubernetes Job运行一次性任务
+https://mp.weixin.qq.com/s/DhuDmWSpUgC36EaClK-PnA
+
+https://mp.weixin.qq.com/s/aMcRKdkILgJBNws0qohK3Q
+Kubernetes学习大纲
+
+掌握这些Kubernetes Pod技巧,成为企业必备技能人才
+https://mp.weixin.qq.com/s/JFOirKIhomhFMJ-FZFebMg
+
+k8s中集群、pod和宿主机网段为什么不能一样
+https://mp.weixin.qq.com/s/z79dwsfCShJtlNc5itNeUQ
+
+
+jenkins流水线在K8S某个节点上执行失败
+https://mp.weixin.qq.com/s/2-CaspduV4CsQy65Sdev9w
+
+【k8s运维】pod name与pid互查
+https://mp.weixin.qq.com/s/6cfWqhQaUvhwNtZ_B3e_lg
+
+Helm 离线部署 Rancher v2.7.5 实践
+https://mp.weixin.qq.com/s/8ZP3V0x3H9fX7vDHkF6ojw
+
+这几个关于Ingress的问题，你会不
+https://mp.weixin.qq.com/s/OUtiR22cRRsXZGCpiqZfHA
+
+Kubernetes K8S中ConfigMap管理容器化应用的配置
+https://mp.weixin.qq.com/s/hxBAwGbrU5qDJTKJJpRUDA
+
+Kubernetes容器状态探测的艺术
+https://mp.weixin.qq.com/s/eSiFBFjk5W8g-bb4N3V7Rg
+
+Ingress企业实战：部署高可靠性Ingress篇
+https://mp.weixin.qq.com/s/zTspv5ajz3lyQ9n7KXMf7w
+
+kubectl命令之隐藏的高级操作
+https://mp.weixin.qq.com/s/fYR58StitPdUFuQ_r4riqg
+
+k8s service 的一些特性
+https://mp.weixin.qq.com/s/ljSq7ZLN6fQLEp8d6PuYEQ
+
+【干货 · 故障排查】Kubernetes-pod常见异常原因排查处理
+https://mp.weixin.qq.com/s/a6T99LvteY7E8Fd8FinnLQ
+
+k8s的相关基础命令
+https://mp.weixin.qq.com/s/tBiRLzCGBxZ2dYU3Xu5GaQ
+
+使用 Kubernetes 开发轻量级微服务 监控微服务
+https://mp.weixin.qq.com/s/V47n33pM5vii5P-Irf3zmg
+
+五分钟k8s实战-使用Ingress
+https://mp.weixin.qq.com/s/KaAj4Ds_V2wey_SNaxOCgg
+
+Docker搭建Jenkins持续集成
+https://mp.weixin.qq.com/s/Vs3vZ55auj8YUIQw2ujPDA
+
+使用 Kubernetes 进行蓝绿部署
+https://mp.weixin.qq.com/s/DscGkKWIyTnQjoX5QhdM3w
+
+Kubernetes轻松创建Pod并暴露端口
+https://mp.weixin.qq.com/s/wD86NzED0zdLWXEz_K-FIw
+
+ELK Stack生产实践——pod日志采集（Fluent Bit方案）
+https://mp.weixin.qq.com/s/wcvyIbVLF5tL93crz0WpJQ
+
+K8S运维必用kubectl命令总结[收藏篇]
+https://mp.weixin.qq.com/s/UemsCGANvS6zQPptWKmQAg
+
+CentOS7 部署 k8s 集群
+https://mp.weixin.qq.com/s/UD4knU8EBOHn9d9-_1a6Xg
+
+kubectl命令入门到精通（建议收藏）
+https://mp.weixin.qq.com/s/GiM6hJiNqY27xFCp8JEGtg
+
+关于Dockerfile的最佳实践技巧
+https://mp.weixin.qq.com/s/VxkHe3GI8Z-NqjDDdGuzWg
+
+Docker 镜像库国内加速的几种方法
+https://mp.weixin.qq.com/s/kxPMrGSZU6Z_aOCWxpuJcg
+
+
+这几个关于Ingress的问题，你会不
+https://mp.weixin.qq.com/s/OUtiR22cRRsXZGCpiqZfHA
+
+一文讲透！基于Kubernetes的Ingress-Nginx解决方案
+https://mp.weixin.qq.com/s/CIGoFshu5vcXzH4U8vsXMA
+
+
+运维要懂的42个docker命令（已归类）
+https://mp.weixin.qq.com/s/SxUY1hwh8j6xUDW5rkkiyw
+
+快速搭建K8S开发环境
+https://mp.weixin.qq.com/s/-oLmXCbeGcjZ71icshFb1Q
+
+一文搞懂 Kubernetes 编排工具 Minikube
+https://mp.weixin.qq.com/s/dl66t496WWtA0yqJWpPM-A
+
+K8S运维必备排查手册[更新篇]
+https://mp.weixin.qq.com/s/Bc9M0S2pcrP5C_y2cFGXDA
+
+一文搞懂Nginx Ingress实现灰度发布和蓝绿发布（二）
+https://mp.weixin.qq.com/s/yTHAw6emTSdIt0oB26EYcA
+
+高级 Kubernetes 部署策略
+https://mp.weixin.qq.com/s/KPz48Izw3MVxsfg_qSUQOg
+
+挖掘Kubernetes 弹性伸缩：水平 Pod 自动扩展的全部潜力
+https://mp.weixin.qq.com/s/bKN-MvY7Y6V9l1GLPxeCMg
+
+Ingress企业实战：部署多个Ingress控制器
+https://mp.weixin.qq.com/s/FQOE2cGm9Qu0x-a9-vZiWw
+
+史上最详细k8s安装流程
+https://mp.weixin.qq.com/s/fL4gMWrJfTDdvw7ogY1sxg
+
+
+云原生二十篇|Docker基础篇
+https://mp.weixin.qq.com/s/lO3Ac5Fmf5vBl0t2FB5V6g
+
+k8s容器的调试利器-nsenter
+https://mp.weixin.qq.com/s/BQo2ZATHS2DD9gh6z5w5ew
+
+[k8s]开发自己的helm chart
+https://mp.weixin.qq.com/s/lhEgRNW5tb6TWkvJd3AWow
+
+如何将自己的镜像使用 helm 部署
+https://mp.weixin.qq.com/s/17uOxdo-eg3PVq74gwvF_A
+
+使用k8s的api获取服务endpoint信息
+https://mp.weixin.qq.com/s/CyiqzP13vHNG_iQzK7J7UA
+
