@@ -519,3 +519,23 @@ https://mp.weixin.qq.com/s/17uOxdo-eg3PVq74gwvF_A
 使用k8s的api获取服务endpoint信息
 https://mp.weixin.qq.com/s/CyiqzP13vHNG_iQzK7J7UA
 
+k8s服务发现之第五弹--使用 Service 连接到应用
+https://mp.weixin.qq.com/s/nq_FlddKoWyTVzNaa6q2BQ
+
+k8s创建pod的流程
+https://mp.weixin.qq.com/s/P262VzwcbNEgCy8kVgoeIA
+
+K8s ConfigMap 动态更新配置技巧
+https://mp.weixin.qq.com/s/svLBKULqphQoOgKbWDX07Q
+
+k8s-pod设置环境变量
+https://mp.weixin.qq.com/s/1zCUjsuf7b_EUZDQW-r9mg
+
+DevOps 成神之路 — 第 7 天：使用 Kubernetes (K8s) 进行容器编排
+https://mp.weixin.qq.com/s/H8ImaWPgRiC_TQ4Kb3PrHQ
+
+Kubernetes新手完全指南
+https://mp.weixin.qq.com/s/0-yfHCdlb5pplHgrSVdxIA
+
+如何在 Kubernetes Pod 中注入环境变量及优先级问题
+https://mp.weixin.qq.com/s/Yg-J-CZd5Z9SW6DzSQj2Ww
