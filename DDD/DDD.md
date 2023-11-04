@@ -33,3 +33,11 @@ https://mp.weixin.qq.com/s/84obkgXVnmPXA4lAtpC7jA
 2.5万字讲解DDD领域驱动设计
 https://mp.weixin.qq.com/s/QjaPk9YkfVFmmdVDKuyj2Q
 
+领域驱动设计-DDD的深入实践
+https://mp.weixin.qq.com/s/bT5epNEYHPYsjdbdV-OWlg
+
+阿里大佬：DDD 落地两大步骤，以及Repository核心模式
+https://mp.weixin.qq.com/s/AD9m23d_C2sWxPhz-hs8wg
+
+阿里面试：让代码不腐烂，DDD是怎么做的？
+https://mp.weixin.qq.com/s/B4-cuDGoDNsqky4cMtI7Bw

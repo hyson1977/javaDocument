@@ -542,3 +542,10 @@ https://mp.weixin.qq.com/s/H8ImaWPgRiC_TQ4Kb3PrHQ
 
 [原来 Kubernetes 部署如此简单]
 (https://mp.weixin.qq.com/s/_Sojce8-DnItZNbqt_ML6w)
+
+
+基于K8S实现代码自动化上线
+https://mp.weixin.qq.com/s/M7K4HHb9KCtDI_tCGiBJ6w
+
+SpringCloud 微服务迁移到 Kubernetes 容器化完整流程
+https://mp.weixin.qq.com/s/Aupry0sTSi612blUcv4I-A
