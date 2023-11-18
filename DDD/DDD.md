@@ -41,3 +41,12 @@ https://mp.weixin.qq.com/s/AD9m23d_C2sWxPhz-hs8wg
 
 阿里面试：让代码不腐烂，DDD是怎么做的？
 https://mp.weixin.qq.com/s/B4-cuDGoDNsqky4cMtI7Bw
+
+「领域驱动设计DDD」事件风暴简介：实现域驱动设计的简便方法
+https://mp.weixin.qq.com/s/kMfElUFClGNBwA-vrynMug
+
+DDD死党：查询模型的本质
+https://mp.weixin.qq.com/s/S1EiJBRM6dXzEB5h24DOLg
+
+阿里大佬：DDD中Interface层、Application层的设计规范
+https://mp.weixin.qq.com/s/DPwL8asiAnrvNW8AjbLagg

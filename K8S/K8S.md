@@ -549,3 +549,9 @@ https://mp.weixin.qq.com/s/M7K4HHb9KCtDI_tCGiBJ6w
 
 SpringCloud 微服务迁移到 Kubernetes 容器化完整流程
 https://mp.weixin.qq.com/s/Aupry0sTSi612blUcv4I-A
+
+K8S创建Pod的YAML文件详解(污点和容忍度、Pod状态、生命周期和健康监测)
+https://mp.weixin.qq.com/s/R8HLsTXgX2p3oh4k0CEXKw
+
+K8s核心概念(这篇绝了)
+https://mp.weixin.qq.com/s/zaeksRauEWqqrSmofSh2RA
