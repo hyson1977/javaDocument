@@ -50,3 +50,6 @@ https://mp.weixin.qq.com/s/S1EiJBRM6dXzEB5h24DOLg
 
 阿里大佬：DDD中Interface层、Application层的设计规范
 https://mp.weixin.qq.com/s/DPwL8asiAnrvNW8AjbLagg
+
+新来个技术总监，把DDD落地的那叫一个高级，服气！
+https://mp.weixin.qq.com/s/MZBmoEepy4fbkaQ1yHsyqA
